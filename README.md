@@ -20,11 +20,11 @@ This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan 
 
 * [Problem Statement](https://github.com/piyush033/Compliance-Guard#problem-statement)
 * [Team Details](https://github.com/piyush033/Compliance-Guard#team-details)
-* [Overview of the Project](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#overview-of-the-project)
-* [Project Aim](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#project-aim)
-* [Technology Used](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#Technology-used)
-* [Code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#code)
-* [Conclusion](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#conclusion)
+* [Overview of the Project](https://github.com/piyush033/Compliance-Guard#overview-of-project)
+* [Project Aim](https://github.com/piyush033/Compliance-Guard#project-aim)
+* [Technology Used](https://github.com/piyush033/Compliance-Guard#technology-used)
+* [Code](https://github.com/piyush033/Compliance-Guard#code)
+* [Conclusion](https://github.com/piyush033/Compliance-Guard#conclusion)
 * [Visualizations](https://github.com/piyush033/Compliance-Guard#visualization)
 
 ## Project Aim 
