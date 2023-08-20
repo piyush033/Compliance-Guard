@@ -14,3 +14,5 @@ Anupam - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and 
 ![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/c986d8f1-6803-4d4b-9b3c-995d7786613f)
 
 Here, We can upload the data ruleset and our file.
+After the ML model read the pdf and clean the data after learning the rule with the help of LLM model we get the desied output.
+
