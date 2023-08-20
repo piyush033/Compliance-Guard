@@ -32,13 +32,13 @@ This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan 
 ## Technology Used
 
 **UI :**
-[JavaScript](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.js)
-[CSS](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.css)
-[HTML](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.html)
+* [JavaScript](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.js)
+* [CSS](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.css)
+* [HTML](https://github.com/piyush033/Compliance-Guard/blob/main/UI/grid.html)
 
 **Backend :** 
-[Python Flask](https://github.com/piyush033/Compliance-Guard/blob/main/Server/app.py)
-[LLM](https://github.com/piyush033/Compliance-Guard/blob/main/gd.ipynb)
+* [Python Flask](https://github.com/piyush033/Compliance-Guard/blob/main/Server/app.py)
+* [LLM](https://github.com/piyush033/Compliance-Guard/blob/main/gd.ipynb)
 
 ## Code
 
