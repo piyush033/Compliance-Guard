@@ -1,7 +1,5 @@
 # Compliance-Guard
 
-This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan Tastri
-
 ## Problem Statement 
 
 Compliance Monitoring and Enforcement through Log Analysis using Large Language Models ( Infosec Engineering)
@@ -13,6 +11,33 @@ Compliance Monitoring and Enforcement through Log Analysis using Large Language 
 **Abhishek Bhatt** - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and Technology - 2024
 
 **Anupam** - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and Technology - 2024
+
+## Overview of Project
+
+This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan Tastri
+
+## Table of Content
+
+* [Problem Statement](https://github.com/piyush033/Compliance-Guard#problem-statement)
+* [Team Details](https://github.com/piyush033/Compliance-Guard#team-details)
+* [Overview of the Project](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#overview-of-the-project)
+* [Project Aim](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#project-aim)
+* [Technology Used](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#Technology-used)
+* [Code](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#code)
+* [Conclusion](https://github.com/piyush033/Traffic_light_colour_detection_DRDO#conclusion)
+* [Visualizations](https://github.com/piyush033/Compliance-Guard#visualization)
+
+## Project Aim 
+
+## Technology Used
+
+## Code
+
+* [LLM Backend]()
+* [UI]()
+
+## Conclusion
+
 
 ## Visualization
 
