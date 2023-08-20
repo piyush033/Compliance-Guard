@@ -35,6 +35,7 @@ This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan 
 
 * [LLM Backend](https://github.com/piyush033/Compliance-Guard/blob/main/gd.ipynb)
 * [UI](https://github.com/piyush033/Compliance-Guard/tree/main/UI)
+* [Server](https://github.com/piyush033/Compliance-Guard/blob/main/Server/app.py)
 
 ## Conclusion
 
