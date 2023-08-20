@@ -9,4 +9,8 @@ Piyush - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and 
 Abhishek Bhatt - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and Technology - 2024
 Anupam - Maharaja Agrasen Institute of Technology, Delhi - Computer Science and Technology - 2024
 
-## UI
+## Visualization
+
+![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/c986d8f1-6803-4d4b-9b3c-995d7786613f)
+
+Here, We can upload the data ruleset and our file.
