@@ -1,0 +1,44 @@
+/* Custom CSS for styling the file upload box */
+.file-upload-box {
+    display: block; /* Default display */
+    background-color: #f9f9f9;
+    border-radius: 20px;
+    padding: 20px;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1),
+                -10px -10px 20px rgba(255, 255, 255, 0.5),
+                0px 0px 20px #001f3f; /* Navy blue shadow */
+  }
+  
+  /* Updated file input style */
+  .file-upload-box input[type="file"] {
+    background-color: transparent;
+    border: none; /* Remove previous border styling */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: none; /* Remove previous box shadow */
+  }
+  
+  /* Neumorphic display text section */
+  #displayText {
+    display: none; /* Hidden by default */
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.1),
+                -10px -10px 20px rgba(255, 255, 255, 0.5),
+                0px 0px 20px #228B22; /* Dark green shadow */
+  }
+  
+  /* Styling for the button */
+  #displayTextBtn {
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    border-radius: 30px; /* Curved border */
+    border-color: #001f3f; /* Dark blue border color */
+    transition: background-color 0.3s ease;
+  }
+  
+  #displayTextBtn:hover {
+    background-color: #2980b9;
+  }
