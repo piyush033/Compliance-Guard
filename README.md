@@ -29,6 +29,12 @@ This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan 
 
 ## Project Aim 
 
+The objective is to build a solution that can effectively analyze logs, system configurations,
+access controls, and user privileges to check for compliance with security policies and
+standards. By utilizing the power of large language models (LLMs) like ChatGPT or its open
+source alternatives, we aim to automate the process of identifying non-compliant activities and
+generating actionable insights for remediation.
+
 ## Technology Used
 
 **UI :**
