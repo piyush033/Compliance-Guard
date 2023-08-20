@@ -42,8 +42,14 @@ This is the solution for the FLipkart GRID 5.0 problem statement from Team Udan 
 
 ## Visualization
 
-![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/6eae609d-2ca7-414f-ad4e-1b9878d52236)
+![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/84bc3803-8f01-493f-9a7d-c5b3aea17d9c)
 
 Here, We can upload the data ruleset and our file.
 After the ML model read the pdf and clean the data after learning the rule with the help of LLM model we get the desied output.
+
+![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/9388ab5a-e286-4837-a380-1609464b7360)
+
+![image](https://github.com/piyush033/Compliance-Guard/assets/100412728/376dd442-28a3-422b-8d2e-dfc63e90f519)
+
+
 
